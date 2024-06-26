@@ -1,3 +1,21 @@
+Link para ver el proyecto de alura cinema:
+https://alura-cinema-curso.vercel.app/
+
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/3eb47eac-97ea-4cd8-880d-447877c782c8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
