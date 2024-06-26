@@ -1,16 +1,29 @@
-Link para ver el proyecto de alura cinema:
-https://alura-cinema-curso.vercel.app/
+Link para ver el proyecto de creado durante el curso llamado alura cinema:
+[https://alura-cinema-curso.vercel.app/](https://alura-cinema-curso.vercel.app/)
 
+
+Tiene la opcion de HOME y FAVORITOS en la parte superior:
 ![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/3eb47eac-97ea-4cd8-880d-447877c782c8)
 
+Se muestran los 4 videos, al darle click mostrara el player de cada uno de los videos:
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/524cf1d8-9e34-4c40-adc2-d58a1682adf7)
 
 
+Al darle clic alguna de los videos que se muestra en pantalla, se muestra el player donde se podra ver el video completo:
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/64fd9591-593f-4f88-9a50-93e29c4843e4)
+
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/0ff03d69-68b6-407d-a7d6-d8dbc66962e7)
 
 
+Al darle clic al corazon de alguno de los videos que se muestran en la pantalla principal, este se alojara en la opcion de favoritos de la parte superior:
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/83f2d529-8cb9-4cae-b9fd-9ceb0803a745)
 
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/56074d98-7dd6-480d-b51d-82806751d041)
 
+Se muestra el video que se le dio clic al corazon en favoritos:
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/fa0fdcfc-78b2-471b-a55c-79a0d339ab5a)
 
-
+![image](https://github.com/yancarmtz/alura-cinema-curso/assets/61806656/93e10500-6b87-4339-9960-9dd66b7eeb9e)
 
 
 
