@@ -4,7 +4,7 @@ import logo from "./logo-alura.png"
 function Pie() {
     return (
         <footer className={styles.pie}>
-            <h2>Desarrollado por <img src={logo} alt="Alura"/></h2>
+            <h2>Desarrollado por Carlos Yañez Martinez <img src={logo} alt="Alura"/></h2>
         </footer>
     )
 }
